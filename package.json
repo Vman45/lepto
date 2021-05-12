@@ -88,7 +88,7 @@
     "lepto-webp": "^1.0.1",
     "magnifier": "^0.4.0",
     "npm-watch": "^0.3.0",
-    "postcss": "^7.0.2",
+    "postcss": "^8.2.10",
     "postcss-axis": "^0.1.2",
     "postcss-calc": "^6.0.0",
     "postcss-cli": "^6.0.0",
